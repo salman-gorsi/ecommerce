@@ -1,0 +1,29 @@
+<img
+              className="img-fluid "
+              style={{ width: "350px", height: "600px", objectFit: "cover" }}
+              src="https://www.junaidjamshed.com/media/wysiwyg/GFS-7.jpg"
+            />
+
+
+            =================
+            <Box>
+              <img
+                className="img-fluid "
+                style={{ width: "200px", height: "300px", objectFit: "cover" }}
+                src="https://www.junaidjamshed.com/media/wysiwyg/GFS-7.jpg"
+              />
+            </Box>
+            <Box>
+              <img
+                className="img-fluid "
+                style={{ width: "200px", height: "300px", objectFit: "cover" }}
+                src="https://www.junaidjamshed.com/media/wysiwyg/GFS-7.jpg"
+              />
+            </Box>
+            <Box>
+              <img
+                className="img-fluid "
+                style={{ width: "200px", height: "300px", objectFit: "cover" }}
+                src="https://www.junaidjamshed.com/media/wysiwyg/GFS-7.jpg"
+              />
+            
